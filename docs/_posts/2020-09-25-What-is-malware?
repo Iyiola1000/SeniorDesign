@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "What is Malware"
+date:   2020-09-03 12:52:45 -0700
+categories: jekyll update
+---
+What is malware?
+
+Malware is a catch-all term for any type of malicious software designed to harm or exploit any programmable device, service or network. Cybercriminals typically use it to extract data that they can leverage over victims for financial gain. That data can range from financial data, to healthcare records, to personal emails and passwords—the possibilities of what sort of information can be compromised have become endless. 
+
+Why do cybercriminals use malware?
+
+Malware encompasses all types of malicious software, including viruses, and cybercriminals use it for many reasons, such as:
+
+    Tricking a victim into providing personal data for identity theft
+
+    Stealing consumer credit card data or other financial data
+
+    Assuming control of multiple computers to launch denial-of-service attacks against other networks
+
+    Infecting computers and using them to mine bitcoin or other cryptocurrencies
+    
+Types of malware?
+
+Unfortunately, there is a lot of malware out there, but understanding the different types of malware is one way to help protect your data and devices:
+
+Viruses
+
+A virus usually comes as an attachment in an email that holds a virus payload, or the part of the malware that performs the malicious action. Once the victim opens the file, the device is infected.
+
+Ransomware
+
+One of the most profitable, and therefore one of the most popular, types of malware amongst cybercriminals is ransomware. This malware installs itself onto a victim’s machine, encrypts their files, and then turns around and demands a ransom (usually in Bitcoin) to return that data to the user.
+
+Scareware
+
+Cybercriminals scare us into thinking that our computers or smartphones have become infected to convince victims to purchase a fake application. In a typical scareware scam, you might see an alarming message while browsing the Web that says “Warning: Your computer is infected!” or “You have a virus!” Cybercriminals use these programs and unethical advertising practices to frighten users into purchasing rogue applications.
+
+Worms
+
+Worms have the ability to copy themselves from machine to machine, usually by exploiting some sort of security weakness in a software or operating system and don’t require user interaction to function.
+
+Spyware
+
+Spyware is a program installed on your computer, usually without your explicit knowledge, that captures and transmits personal information or Internet browsing habits and details to its user. Spyware enables its users to monitor all forms of communications on the targeted device. Spyware is often used by law enforcement, government agencies and information security organizations to test and monitor communications in a sensitive environment or in an investigation. But spyware is also available to consumers, allowing purchasers to spy on their spouse, children and employees.
+
+Trojans
+
+Trojans masquerade as harmless applications, tricking users into downloading and using them. Once up and running, they then can steal personal data, crash a device, spy on activities or even launch an attack.
+
+Adware
+
+Adware programs push unwanted advertisements at users and typically display blinking advertisements or pop-up windows when you perform a certain action. Adware programs are often installed in exchange for another service, such as the right to use a program without paying for it.
+
+Fileless malware
+
+Fileless malware is a type of malicious software that uses legitimate programs to infect a computer. Fileless malware registry attacks leave no malware files to scan and no malicious processes to detect. It does not rely on files and leaves no footprint, making it challenging to detect and remove.
